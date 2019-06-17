@@ -15,9 +15,9 @@ let persone = {
 };
 
 
-console.log(persone["name"]);
+console.log(persone.name);
 
-let arr = ['plum.png', 'orange.jpg', 'apple.gif']
+let arr = ['plum.png', 'orange.jpg', 'apple.gif'];
 
 console.log(arr[0]);
 
