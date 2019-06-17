@@ -4,7 +4,7 @@
 
 
 var leftBorderWidth = 1;
-let second = 2;
+let second = 5;
 
 const pi = 3.14;
 
